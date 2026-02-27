@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-groq
+langchain-experimental
+pandas
+matplotlib
+pydantic
+pydantic-settings
+python-dotenv
+scalar-fastapi
+streamlit
+Pillow
+requests

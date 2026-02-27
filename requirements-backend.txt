@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-groq
+langchain-experimental
+langchain-community
+pandas
+matplotlib
+numpy
+pydantic
+pydantic-settings
+python-dotenv
+scalar-fastapi
+langgraph
+httpx
